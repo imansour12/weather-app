@@ -1,6 +1,6 @@
 # Getting Started 
 
-Check out a working demo [here](#).
+Check out a working demo [here](https://imansour12.github.io/weather-app/).
 
 ## Installing:
 There are no extra dependencies to run the project.\
